@@ -3,10 +3,10 @@
 ## <p align="center">Java Backend Developer | Spring Boot Enthusiast</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ahmed-mohamed-b3857525b/)">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@yourchannel">
+  <a href="https://www.youtube.com/@AhmedMohamed-zv8oh">
     <img src="https://img.shields.io/badge/YouTube-Learn%20Spring%20Boot-red?style=flat&logo=youtube&logoColor=white"/>
   </a>
 </p>
