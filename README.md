@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-b3857525b/">
     [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-b3857525b/)
-ئ
+
   </a>
   <a href="https://www.youtube.com/@AhmedMohamed-zv8oh">
     <img src="https://img.shields.io/badge/YouTube-Ahmed%20Mohamed-red?style=flat&logo=youtube&logoColor=white"/>
